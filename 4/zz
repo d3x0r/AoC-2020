@@ -1,0 +1,2951 @@
+bad height: 62cm
+needs: [ 'iyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+needs: [ 'hgt', 'hcl' ]
+needs: []
+found a valid passports? {
+  byr: '1971',
+  eyr: '2021',
+  iyr: '2015',
+  pid: '158388040',
+  hcl: '#18171d',
+  ecl: 'brn',
+  hgt: '179cm'
+}
+needs: []
+found a valid passports? {
+  byr: '1936',
+  pid: '707057570',
+  iyr: '2014',
+  ecl: 'amb',
+  cid: '299',
+  eyr: '2030',
+  hcl: '#c0946f',
+  hgt: '186cm'
+}
+needs: []
+found a valid passports? {
+  hgt: '163cm',
+  iyr: '2013',
+  ecl: 'gry',
+  hcl: '#86e981',
+  byr: '1939',
+  eyr: '2020',
+  pid: '241741372',
+  cid: '203'
+}
+needs: []
+found a valid passports? {
+  ecl: 'brn',
+  hcl: '#341e13',
+  pid: '686617364',
+  byr: '1929',
+  eyr: '2029',
+  hgt: '160cm',
+  cid: '280',
+  iyr: '2020'
+}
+needs: []
+found a valid passports? {
+  byr: '2002',
+  hcl: '#623a2f',
+  pid: '253005469',
+  iyr: '2011',
+  ecl: 'hzl',
+  hgt: '184cm',
+  eyr: '2027'
+}
+eyr out of range: 2040
+bad height: 188in
+iyr out of range: 2005
+byr out of range: 2004
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: [ 'pid' ]
+iyr out of range: 2023
+eyr out of range: 2038
+byr out of range: 2004
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl' ]
+iyr out of range: 1981
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  eyr: '2027',
+  byr: '1976',
+  pid: '350079989',
+  ecl: 'blu',
+  iyr: '2013',
+  hgt: '180cm',
+  hcl: '#866857'
+}
+needs: [ 'ecl' ]
+needs: []
+found a valid passports? {
+  ecl: 'gry',
+  iyr: '2017',
+  hcl: '#18171d',
+  byr: '1926',
+  eyr: '2027',
+  hgt: '68in',
+  cid: '310',
+  pid: '560836007'
+}
+eyr out of range: 2039
+bad height: 75cm
+iyr out of range: 2022
+needs: [ 'iyr', 'eyr', 'hgt', 'hcl', 'pid' ]
+needs: []
+found a valid passports? {
+  ecl: 'brn',
+  hgt: '179cm',
+  eyr: '2020',
+  iyr: '2016',
+  pid: '322103252',
+  byr: '1940',
+  hcl: '#b6652a'
+}
+needs: []
+found a valid passports? {
+  hcl: '#733820',
+  hgt: '188cm',
+  cid: '70',
+  eyr: '2021',
+  ecl: 'amb',
+  byr: '1996',
+  iyr: '2013',
+  pid: '412419084'
+}
+needs: []
+found a valid passports? {
+  hgt: '164cm',
+  iyr: '2011',
+  byr: '1928',
+  eyr: '2020',
+  hcl: '#733820',
+  pid: '704914380',
+  ecl: 'blu'
+}
+byr out of range: 2011
+iyr out of range: 2026
+bad height: 104
+needs: [ 'byr', 'iyr', 'hgt', 'hcl' ]
+needs: []
+found a valid passports? {
+  pid: '224593036',
+  eyr: '2027',
+  ecl: 'brn',
+  hcl: '#341e13',
+  iyr: '2014',
+  byr: '1997',
+  hgt: '181cm'
+}
+eyr out of range: 2005
+bad height: 152in
+iyr out of range: 2027
+needs: [ 'iyr', 'eyr', 'hgt', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  byr: '1998',
+  iyr: '2017',
+  pid: '618350852',
+  hgt: '156cm',
+  cid: '193',
+  ecl: 'amb',
+  hcl: '#602927',
+  eyr: '2029'
+}
+byr out of range: 2021
+bad height: 167in
+eyr out of range: 2008
+iyr out of range: 2025
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  cid: '206',
+  pid: '735212085',
+  eyr: '2020',
+  byr: '1950',
+  hgt: '153cm',
+  ecl: 'blu',
+  iyr: '2019',
+  hcl: '#733820'
+}
+needs: []
+found a valid passports? {
+  eyr: '2021',
+  pid: '551149968',
+  iyr: '2020',
+  hcl: '#6b5442',
+  byr: '1948',
+  ecl: 'grn',
+  hgt: '152cm'
+}
+needs: []
+found a valid passports? {
+  hgt: '76in',
+  cid: '113',
+  iyr: '2019',
+  eyr: '2023',
+  hcl: '#888785',
+  pid: '131239468',
+  ecl: 'grn',
+  byr: '1994'
+}
+byr out of range: 2027
+iyr out of range: 2022
+needs: [ 'byr', 'iyr', 'hgt', 'pid' ]
+needs: [ 'pid' ]
+needs: []
+found a valid passports? {
+  ecl: 'hzl',
+  iyr: '2012',
+  cid: '344',
+  hcl: '#7d3b0c',
+  hgt: '190cm',
+  pid: '599490023',
+  byr: '1954',
+  eyr: '2023'
+}
+eyr out of range: 1971
+iyr out of range: 1991
+byr out of range: 2008
+needs: [ 'byr', 'iyr', 'eyr', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  iyr: '2014',
+  hgt: '151cm',
+  pid: '190259199',
+  eyr: '2021',
+  ecl: 'blu',
+  byr: '1975',
+  hcl: '#ceb3a1'
+}
+needs: []
+found a valid passports? {
+  hgt: '164cm',
+  ecl: 'oth',
+  hcl: '#c0946f',
+  pid: '427760590',
+  eyr: '2023',
+  iyr: '2012',
+  byr: '1979'
+}
+iyr out of range: 2023
+byr out of range: 2020
+eyr out of range: 1924
+needs: [ 'byr', 'iyr', 'eyr', 'hcl', 'ecl', 'pid' ]
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  iyr: '2013',
+  hcl: '#18171d',
+  hgt: '170cm',
+  ecl: 'blu',
+  pid: '040253250',
+  eyr: '2024',
+  byr: '1954',
+  cid: '340'
+}
+needs: []
+found a valid passports? {
+  cid: '185',
+  byr: '1956',
+  eyr: '2029',
+  pid: '454637740',
+  ecl: 'hzl',
+  hcl: '#efcc98',
+  iyr: '2019',
+  hgt: '73in'
+}
+needs: []
+found a valid passports? {
+  hcl: '#efcc98',
+  hgt: '176cm',
+  ecl: 'hzl',
+  cid: '113',
+  pid: '747653564',
+  iyr: '2016',
+  eyr: '2020',
+  byr: '1945'
+}
+needs: []
+found a valid passports? {
+  hgt: '69in',
+  cid: '264',
+  byr: '1971',
+  hcl: '#733820',
+  ecl: 'amb',
+  pid: '086130104',
+  iyr: '2011',
+  eyr: '2022'
+}
+eyr out of range: 2034
+bad height: 109
+byr out of range: 2018
+needs: [ 'byr', 'eyr', 'hgt', 'hcl', 'ecl' ]
+needs: []
+found a valid passports? {
+  pid: '955229652',
+  eyr: '2027',
+  cid: '175',
+  byr: '1950',
+  iyr: '2010',
+  ecl: 'gry',
+  hcl: '#866857',
+  hgt: '177cm'
+}
+needs: [ 'iyr' ]
+eyr out of range: 2011
+needs: [ 'iyr', 'eyr', 'hcl' ]
+needs: []
+found a valid passports? {
+  hcl: '#a97842',
+  pid: '040278061',
+  ecl: 'brn',
+  hgt: '168cm',
+  cid: '194',
+  byr: '1973',
+  iyr: '2016',
+  eyr: '2027'
+}
+needs: []
+found a valid passports? {
+  hcl: '#623a2f',
+  eyr: '2023',
+  ecl: 'blu',
+  iyr: '2016',
+  pid: '844348663',
+  byr: '1997',
+  hgt: '179cm'
+}
+iyr out of range: 2025
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  iyr: '2011',
+  eyr: '2025',
+  cid: '286',
+  pid: '084736292',
+  byr: '1936',
+  ecl: 'oth',
+  hcl: '#a97842',
+  hgt: '166cm'
+}
+needs: []
+found a valid passports? {
+  iyr: '2012',
+  ecl: 'blu',
+  hgt: '159cm',
+  byr: '1980',
+  eyr: '2024',
+  pid: '811644928',
+  cid: '105',
+  hcl: '#7d3b0c'
+}
+needs: [ 'eyr' ]
+needs: [ 'byr' ]
+needs: [ 'eyr' ]
+needs: []
+found a valid passports? {
+  iyr: '2019',
+  eyr: '2026',
+  ecl: 'brn',
+  hcl: '#866857',
+  byr: '1993',
+  cid: '299',
+  pid: '603503348',
+  hgt: '186cm'
+}
+byr out of range: 2021
+needs: [ 'byr' ]
+needs: []
+found a valid passports? {
+  hgt: '164cm',
+  eyr: '2025',
+  pid: '113005290',
+  byr: '1955',
+  ecl: 'blu',
+  iyr: '2017',
+  hcl: '#b6652a'
+}
+needs: []
+found a valid passports? {
+  cid: '179',
+  iyr: '2015',
+  pid: '317467924',
+  eyr: '2025',
+  ecl: 'gry',
+  byr: '1996',
+  hgt: '180cm',
+  hcl: '#a55f97'
+}
+needs: []
+found a valid passports? {
+  hgt: '172cm',
+  hcl: '#efcc98',
+  cid: '53',
+  ecl: 'grn',
+  iyr: '2016',
+  byr: '1991',
+  pid: '337133478',
+  eyr: '2025'
+}
+bad height: 150
+iyr out of range: 2008
+eyr out of range: 2040
+byr out of range: 2012
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  pid: '577607614',
+  byr: '1924',
+  hgt: '173cm',
+  hcl: '#341e13',
+  eyr: '2026',
+  ecl: 'amb',
+  iyr: '2013'
+}
+byr out of range: 2029
+needs: [ 'byr', 'hcl', 'ecl' ]
+byr out of range: 2015
+eyr out of range: 1986
+needs: [ 'byr', 'eyr', 'pid' ]
+byr out of range: 2005
+iyr out of range: 2028
+eyr out of range: 1941
+bad height: 177in
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'ecl', 'pid' ]
+bad height: 73cm
+needs: [ 'hgt', 'hcl', 'ecl', 'pid' ]
+bad height: 184in
+eyr out of range: 2001
+byr out of range: 2020
+needs: [ 'byr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+needs: [ 'byr', 'hgt' ]
+needs: []
+found a valid passports? {
+  pid: '780384540',
+  ecl: 'gry',
+  cid: '52',
+  eyr: '2020',
+  hgt: '193cm',
+  hcl: '#4ae223',
+  iyr: '2017',
+  byr: '1984'
+}
+needs: []
+found a valid passports? {
+  ecl: 'hzl',
+  pid: '218314886',
+  eyr: '2030',
+  byr: '1948',
+  hcl: '#c0946f',
+  hgt: '185cm',
+  iyr: '2013'
+}
+eyr out of range: 2036
+byr out of range: 2018
+bad height: 70cm
+needs: [ 'byr', 'eyr', 'hgt', 'pid' ]
+needs: [ 'eyr' ]
+needs: []
+found a valid passports? {
+  byr: '1961',
+  hgt: '165cm',
+  pid: '506597451',
+  cid: '122',
+  eyr: '2020',
+  hcl: '#cfa07d',
+  ecl: 'gry',
+  iyr: '2016'
+}
+iyr out of range: 1970
+eyr out of range: 2040
+byr out of range: 2008
+bad height: 188
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  hgt: '179cm',
+  byr: '1972',
+  eyr: '2026',
+  cid: '62',
+  ecl: 'oth',
+  pid: '996355557',
+  iyr: '2013',
+  hcl: '#a97842'
+}
+needs: []
+found a valid passports? {
+  ecl: 'amb',
+  eyr: '2026',
+  byr: '1936',
+  pid: '812982189',
+  hgt: '158cm',
+  hcl: '#888785',
+  iyr: '2010'
+}
+needs: [ 'ecl' ]
+eyr out of range: 2036
+bad height: 133
+byr out of range: 2009
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  byr: '1938',
+  hcl: '#fd309a',
+  cid: '104',
+  iyr: '2015',
+  eyr: '2022',
+  pid: '201047563',
+  hgt: '160cm',
+  ecl: 'hzl'
+}
+byr out of range: 2023
+eyr out of range: 2038
+iyr out of range: 2022
+needs: [ 'byr', 'iyr', 'eyr', 'hcl', 'ecl', 'pid' ]
+byr out of range: 2023
+iyr out of range: 2026
+eyr out of range: 1928
+needs: [ 'byr', 'iyr', 'eyr', 'hcl', 'pid' ]
+needs: []
+found a valid passports? {
+  hcl: '#efcc98',
+  hgt: '187cm',
+  byr: '1925',
+  ecl: 'grn',
+  pid: '753746076',
+  iyr: '2017',
+  eyr: '2021'
+}
+needs: []
+found a valid passports? {
+  iyr: '2017',
+  byr: '1934',
+  ecl: 'grn',
+  eyr: '2021',
+  hgt: '163cm',
+  pid: '688172460',
+  hcl: '#b6652a'
+}
+needs: []
+found a valid passports? {
+  hcl: '#c0946f',
+  iyr: '2018',
+  ecl: 'blu',
+  pid: '676564085',
+  hgt: '184cm',
+  cid: '152',
+  byr: '1980',
+  eyr: '2023'
+}
+bad height: 70cm
+iyr out of range: 2022
+byr out of range: 2010
+eyr out of range: 2037
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+iyr out of range: 2028
+eyr out of range: 1947
+byr out of range: 2025
+needs: [ 'byr', 'iyr', 'eyr', 'hcl', 'ecl' ]
+needs: []
+found a valid passports? {
+  pid: '091281559',
+  hcl: '#733820',
+  hgt: '166cm',
+  eyr: '2021',
+  ecl: 'grn',
+  cid: '327',
+  byr: '1928',
+  iyr: '2014'
+}
+needs: []
+found a valid passports? {
+  eyr: '2025',
+  ecl: 'grn',
+  byr: '1938',
+  hcl: '#ceb3a1',
+  cid: '234',
+  pid: '549433891',
+  hgt: '172cm',
+  iyr: '2016'
+}
+needs: []
+found a valid passports? {
+  hcl: '#c0946f',
+  hgt: '173cm',
+  iyr: '2014',
+  eyr: '2030',
+  ecl: 'blu',
+  byr: '1965',
+  pid: '696577272'
+}
+needs: []
+found a valid passports? {
+  hgt: '154cm',
+  eyr: '2030',
+  pid: '475642195',
+  byr: '1920',
+  iyr: '2013',
+  hcl: '#866857',
+  ecl: 'blu'
+}
+needs: []
+found a valid passports? {
+  pid: '518398763',
+  iyr: '2010',
+  eyr: '2020',
+  hgt: '183cm',
+  ecl: 'brn',
+  byr: '1921',
+  hcl: '#18171d'
+}
+needs: []
+found a valid passports? {
+  eyr: '2023',
+  pid: '614116723',
+  hcl: '#7d3b0c',
+  ecl: 'hzl',
+  iyr: '2016',
+  hgt: '189cm',
+  byr: '2000'
+}
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  pid: '851985534',
+  eyr: '2028',
+  hcl: '#18171d',
+  ecl: 'oth',
+  cid: '238',
+  byr: '2001',
+  iyr: '2019',
+  hgt: '166cm'
+}
+needs: []
+found a valid passports? {
+  byr: '1927',
+  hgt: '170cm',
+  pid: '246933107',
+  ecl: 'amb',
+  iyr: '2015',
+  cid: '166',
+  eyr: '2027',
+  hcl: '#b6652a'
+}
+eyr out of range: 2031
+iyr out of range: 1980
+needs: [ 'iyr', 'eyr', 'ecl' ]
+needs: []
+found a valid passports? {
+  hcl: '#866857',
+  eyr: '2021',
+  hgt: '179cm',
+  pid: '206504353',
+  cid: '84',
+  ecl: 'gry',
+  iyr: '2012',
+  byr: '1952'
+}
+needs: []
+found a valid passports? {
+  byr: '1986',
+  ecl: 'hzl',
+  hcl: '#a97842',
+  iyr: '2015',
+  hgt: '152cm',
+  pid: '722601936',
+  eyr: '2025'
+}
+needs: [ 'hgt' ]
+needs: []
+found a valid passports? {
+  ecl: 'hzl',
+  hcl: '#888785',
+  cid: '268',
+  byr: '1926',
+  hgt: '176cm',
+  pid: '321394231',
+  eyr: '2021',
+  iyr: '2014'
+}
+needs: []
+found a valid passports? {
+  eyr: '2021',
+  cid: '225',
+  pid: '770796086',
+  ecl: 'gry',
+  byr: '1961',
+  hgt: '154cm',
+  hcl: '#6b5442',
+  iyr: '2011'
+}
+iyr out of range: 1961
+byr out of range: 2016
+bad height: 70cm
+needs: [ 'byr', 'iyr', 'hgt', 'ecl' ]
+needs: []
+found a valid passports? {
+  byr: '1978',
+  eyr: '2022',
+  hgt: '184cm',
+  hcl: '#7d3b0c',
+  cid: '271',
+  ecl: 'amb',
+  pid: '235352975',
+  iyr: '2010'
+}
+iyr out of range: 1958
+byr out of range: 2017
+bad height: 192in
+needs: [ 'byr', 'iyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+needs: [ 'ecl' ]
+needs: [ 'hgt' ]
+needs: []
+found a valid passports? {
+  hgt: '193cm',
+  pid: '473100400',
+  hcl: '#efcc98',
+  cid: '201',
+  eyr: '2020',
+  byr: '1969',
+  ecl: 'gry',
+  iyr: '2016'
+}
+needs: []
+found a valid passports? {
+  eyr: '2025',
+  pid: '137807160',
+  iyr: '2014',
+  ecl: 'grn',
+  byr: '1944',
+  hgt: '168cm',
+  hcl: '#ceb3a1'
+}
+byr out of range: 2008
+needs: [ 'byr', 'hgt', 'ecl' ]
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  pid: '253742161',
+  ecl: 'hzl',
+  hcl: '#602927',
+  eyr: '2021',
+  hgt: '191cm',
+  byr: '1925',
+  iyr: '2010'
+}
+needs: []
+found a valid passports? {
+  ecl: 'amb',
+  hcl: '#341e13',
+  eyr: '2024',
+  iyr: '2017',
+  byr: '1975',
+  pid: '838040028',
+  hgt: '172cm'
+}
+bad height: 172in
+byr out of range: 2003
+needs: [ 'byr', 'hgt' ]
+needs: []
+found a valid passports? {
+  hcl: '#888785',
+  byr: '1978',
+  hgt: '64in',
+  pid: '442064310',
+  eyr: '2021',
+  iyr: '2011',
+  ecl: 'hzl'
+}
+needs: []
+found a valid passports? {
+  eyr: '2021',
+  byr: '1988',
+  hcl: '#a97842',
+  pid: '290578586',
+  ecl: 'hzl',
+  hgt: '174cm',
+  iyr: '2020'
+}
+needs: []
+found a valid passports? {
+  byr: '1998',
+  iyr: '2020',
+  hgt: '163cm',
+  ecl: 'oth',
+  eyr: '2025',
+  hcl: '#6b5442',
+  pid: '913461954'
+}
+needs: []
+found a valid passports? {
+  hgt: '173cm',
+  hcl: '#18171d',
+  eyr: '2029',
+  ecl: 'brn',
+  cid: '313',
+  byr: '1980',
+  iyr: '2011',
+  pid: '810497375'
+}
+needs: []
+found a valid passports? {
+  byr: '1975',
+  hgt: '153cm',
+  eyr: '2027',
+  hcl: '#fffffd',
+  pid: '857730031',
+  ecl: 'gry',
+  iyr: '2020'
+}
+bad height: 178
+needs: [ 'hgt' ]
+bad height: 163in
+needs: [ 'eyr', 'hgt', 'ecl' ]
+needs: []
+found a valid passports? {
+  eyr: '2024',
+  pid: '737015681',
+  byr: '1952',
+  ecl: 'hzl',
+  iyr: '2019',
+  hgt: '192cm',
+  hcl: '#cfa07d'
+}
+byr out of range: 2025
+bad height: 66cm
+eyr out of range: 2011
+iyr out of range: 2027
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+eyr out of range: 2032
+bad height: 70cm
+needs: [ 'eyr', 'hgt', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  cid: '350',
+  hcl: '#602927',
+  iyr: '2019',
+  hgt: '178cm',
+  pid: '172238204',
+  byr: '1949',
+  ecl: 'hzl',
+  eyr: '2028'
+}
+needs: []
+found a valid passports? {
+  hgt: '153cm',
+  hcl: '#ceb3a1',
+  ecl: 'grn',
+  byr: '1997',
+  pid: '266747822',
+  iyr: '2011',
+  eyr: '2022'
+}
+needs: [ 'hcl' ]
+needs: []
+found a valid passports? {
+  byr: '1930',
+  iyr: '2011',
+  pid: '352711700',
+  hgt: '174cm',
+  cid: '67',
+  eyr: '2020',
+  ecl: 'hzl',
+  hcl: '#6b5442'
+}
+needs: [ 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  hgt: '164cm',
+  eyr: '2026',
+  hcl: '#866857',
+  iyr: '2018',
+  pid: '922679610',
+  byr: '1974',
+  ecl: 'brn',
+  cid: '114'
+}
+eyr out of range: 2038
+bad height: 166in
+byr out of range: 2013
+iyr out of range: 2021
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  cid: '83',
+  hgt: '166cm',
+  eyr: '2026',
+  iyr: '2018',
+  byr: '1994',
+  ecl: 'brn',
+  pid: '858360477',
+  hcl: '#ceb3a1'
+}
+needs: []
+found a valid passports? {
+  hgt: '169cm',
+  eyr: '2020',
+  pid: '110129489',
+  byr: '1958',
+  ecl: 'oth',
+  hcl: '#7d3b0c',
+  iyr: '2011'
+}
+needs: []
+found a valid passports? {
+  cid: '279',
+  iyr: '2019',
+  byr: '1995',
+  eyr: '2026',
+  ecl: 'hzl',
+  hcl: '#7d3b0c',
+  hgt: '185cm',
+  pid: '085427066'
+}
+bad height: 183in
+needs: [ 'hgt' ]
+needs: [ 'ecl' ]
+needs: []
+found a valid passports? {
+  byr: '1925',
+  cid: '168',
+  eyr: '2020',
+  hcl: '#cfa07d',
+  iyr: '2011',
+  ecl: 'brn',
+  hgt: '150cm',
+  pid: '740118192'
+}
+needs: [ 'hcl', 'pid' ]
+needs: [ 'pid' ]
+needs: []
+found a valid passports? {
+  byr: '1997',
+  iyr: '2018',
+  eyr: '2023',
+  hcl: '#602927',
+  pid: '251296833',
+  ecl: 'blu',
+  hgt: '185cm'
+}
+needs: [ 'iyr' ]
+needs: [ 'hcl' ]
+needs: [ 'pid' ]
+needs: []
+found a valid passports? {
+  hgt: '190cm',
+  iyr: '2019',
+  ecl: 'oth',
+  eyr: '2028',
+  hcl: '#341e13',
+  cid: '334',
+  pid: '258135663',
+  byr: '1972'
+}
+needs: []
+found a valid passports? {
+  byr: '1936',
+  hgt: '76in',
+  pid: '748344702',
+  cid: '335',
+  eyr: '2027',
+  hcl: '#a97842',
+  ecl: 'amb',
+  iyr: '2015'
+}
+bad height: 66cm
+needs: [ 'byr', 'hgt', 'hcl', 'pid' ]
+needs: []
+found a valid passports? {
+  hcl: '#733820',
+  ecl: 'amb',
+  iyr: '2013',
+  hgt: '188cm',
+  byr: '1955',
+  pid: '125663066',
+  eyr: '2020',
+  cid: '179'
+}
+needs: []
+found a valid passports? {
+  iyr: '2017',
+  hgt: '185cm',
+  ecl: 'grn',
+  cid: '298',
+  eyr: '2030',
+  hcl: '#5b1c03',
+  byr: '1992',
+  pid: '092887457'
+}
+eyr out of range: 2032
+bad height: 82
+iyr out of range: 2022
+byr out of range: 2003
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'hcl', 'pid' ]
+needs: []
+found a valid passports? {
+  pid: '257666411',
+  eyr: '2023',
+  byr: '1982',
+  hgt: '179cm',
+  hcl: '#18171d',
+  ecl: 'brn',
+  iyr: '2010'
+}
+needs: [ 'byr', 'hgt' ]
+needs: []
+found a valid passports? {
+  hcl: '#efcc98',
+  byr: '1964',
+  pid: '577424639',
+  eyr: '2030',
+  iyr: '2010',
+  ecl: 'brn',
+  hgt: '169cm',
+  cid: '285'
+}
+needs: []
+found a valid passports? {
+  ecl: 'amb',
+  byr: '1958',
+  hgt: '159cm',
+  hcl: '#efcc98',
+  eyr: '2024',
+  iyr: '2016',
+  pid: '029502840'
+}
+byr out of range: 2007
+bad height: 69cm
+iyr out of range: 2030
+eyr out of range: 2033
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'hcl', 'pid' ]
+byr out of range: 2008
+needs: [ 'byr', 'pid' ]
+needs: []
+found a valid passports? {
+  iyr: '2014',
+  pid: '868785127',
+  eyr: '2029',
+  cid: '220',
+  hcl: '#18171d',
+  ecl: 'blu',
+  byr: '1948',
+  hgt: '171cm'
+}
+needs: []
+found a valid passports? {
+  byr: '1936',
+  pid: '433437105',
+  hcl: '#c0946f',
+  eyr: '2020',
+  iyr: '2019',
+  hgt: '160cm',
+  ecl: 'brn'
+}
+needs: []
+found a valid passports? {
+  iyr: '2015',
+  eyr: '2024',
+  hgt: '176cm',
+  ecl: 'hzl',
+  byr: '1995',
+  pid: '101835436',
+  hcl: '#ceb3a1'
+}
+eyr out of range: 1959
+bad height: 71
+byr out of range: 2022
+needs: [ 'byr', 'eyr', 'hgt', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  byr: '1998',
+  iyr: '2011',
+  cid: '275',
+  ecl: 'oth',
+  pid: '924517068',
+  eyr: '2024',
+  hgt: '191cm',
+  hcl: '#623a2f'
+}
+bad height: 157
+iyr out of range: 1975
+needs: [ 'iyr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+needs: [ 'hgt' ]
+needs: []
+found a valid passports? {
+  hgt: '156cm',
+  hcl: '#b6652a',
+  eyr: '2021',
+  pid: '969724332',
+  cid: '126',
+  iyr: '2016',
+  ecl: 'hzl',
+  byr: '1988'
+}
+needs: []
+found a valid passports? {
+  ecl: 'blu',
+  hcl: '#866857',
+  hgt: '153cm',
+  pid: '798083560',
+  iyr: '2015',
+  byr: '1981',
+  eyr: '2030'
+}
+needs: []
+found a valid passports? {
+  iyr: '2013',
+  cid: '103',
+  hcl: '#efcc98',
+  eyr: '2022',
+  byr: '1964',
+  ecl: 'gry',
+  hgt: '161cm',
+  pid: '950689613'
+}
+byr out of range: 2011
+iyr out of range: 2005
+needs: [ 'byr', 'iyr', 'hcl', 'ecl', 'pid' ]
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  eyr: '2027',
+  pid: '286247733',
+  byr: '2000',
+  hgt: '191cm',
+  iyr: '2014',
+  hcl: '#341e13',
+  ecl: 'amb'
+}
+byr out of range: 2005
+iyr out of range: 2021
+eyr out of range: 1949
+needs: [ 'byr', 'iyr', 'eyr', 'hcl', 'ecl' ]
+needs: [ 'hcl' ]
+iyr out of range: 1936
+byr out of range: 2003
+needs: [ 'byr', 'iyr', 'hgt', 'ecl' ]
+needs: [ 'hcl' ]
+needs: []
+found a valid passports? {
+  hgt: '161cm',
+  cid: '215',
+  pid: '116325531',
+  iyr: '2019',
+  eyr: '2025',
+  hcl: '#18171d',
+  ecl: 'blu',
+  byr: '1951'
+}
+needs: []
+found a valid passports? {
+  pid: '787859682',
+  hcl: '#a97842',
+  eyr: '2020',
+  byr: '1948',
+  hgt: '190cm',
+  ecl: 'brn',
+  iyr: '2020'
+}
+bad height: 73cm
+eyr out of range: 2031
+iyr out of range: 1973
+needs: [ 'iyr', 'eyr', 'hgt', 'hcl', 'ecl' ]
+needs: [ 'eyr' ]
+eyr out of range: 2040
+byr out of range: 2029
+needs: [ 'byr', 'iyr', 'eyr', 'hcl' ]
+needs: []
+found a valid passports? {
+  hcl: '#18171d',
+  hgt: '162cm',
+  byr: '1983',
+  eyr: '2020',
+  pid: '328556776',
+  iyr: '2017',
+  ecl: 'grn'
+}
+needs: [ 'pid' ]
+eyr out of range: 2034
+bad height: 189in
+iyr out of range: 2023
+needs: [ 'iyr', 'eyr', 'hgt', 'hcl', 'ecl' ]
+eyr out of range: 2039
+bad height: 182in
+iyr out of range: 2026
+byr out of range: 2004
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  hcl: '#866857',
+  pid: '615665716',
+  ecl: 'blu',
+  hgt: '164cm',
+  iyr: '2020',
+  byr: '1948',
+  eyr: '2024',
+  cid: '286'
+}
+needs: []
+found a valid passports? {
+  hcl: '#b6652a',
+  hgt: '59in',
+  eyr: '2027',
+  pid: '752461325',
+  ecl: 'oth',
+  byr: '1932',
+  iyr: '2019'
+}
+needs: []
+found a valid passports? {
+  eyr: '2030',
+  byr: '1936',
+  ecl: 'hzl',
+  iyr: '2010',
+  cid: '263',
+  pid: '186570962',
+  hcl: '#888785',
+  hgt: '163cm'
+}
+needs: []
+found a valid passports? {
+  byr: '1949',
+  ecl: 'blu',
+  pid: '407719342',
+  eyr: '2030',
+  hcl: '#b6652a',
+  iyr: '2012',
+  hgt: '186cm'
+}
+needs: [ 'hgt', 'hcl', 'pid' ]
+needs: []
+found a valid passports? {
+  byr: '1980',
+  hcl: '#d2c954',
+  iyr: '2013',
+  ecl: 'brn',
+  hgt: '72in',
+  eyr: '2030',
+  pid: '017095362'
+}
+needs: []
+found a valid passports? {
+  hgt: '179cm',
+  hcl: '#ceb3a1',
+  cid: '61',
+  eyr: '2026',
+  iyr: '2011',
+  pid: '897403026',
+  byr: '1984',
+  ecl: 'amb'
+}
+needs: []
+found a valid passports? {
+  cid: '150',
+  hgt: '181cm',
+  eyr: '2028',
+  pid: '894689339',
+  hcl: '#602927',
+  byr: '1933',
+  ecl: 'grn',
+  iyr: '2018'
+}
+needs: [ 'hcl' ]
+eyr out of range: 2013
+bad height: 190in
+needs: [ 'byr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  iyr: '2019',
+  pid: '255938897',
+  eyr: '2022',
+  hgt: '152cm',
+  byr: '1956',
+  ecl: 'grn',
+  hcl: '#ceb3a1'
+}
+needs: []
+found a valid passports? {
+  eyr: '2029',
+  pid: '670713784',
+  iyr: '2020',
+  ecl: 'grn',
+  hgt: '155cm',
+  hcl: '#6b5442',
+  byr: '2002'
+}
+needs: []
+found a valid passports? {
+  byr: '1925',
+  hcl: '#866857',
+  pid: '323449427',
+  ecl: 'oth',
+  eyr: '2023',
+  hgt: '163cm',
+  iyr: '2014'
+}
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  eyr: '2023',
+  hcl: '#efcc98',
+  hgt: '164cm',
+  ecl: 'gry',
+  iyr: '2018',
+  byr: '1993',
+  pid: '501920795'
+}
+needs: []
+found a valid passports? {
+  eyr: '2030',
+  iyr: '2019',
+  hgt: '73in',
+  hcl: '#bf908a',
+  byr: '1961',
+  ecl: 'blu',
+  cid: '86',
+  pid: '436811356'
+}
+bad height: 131
+iyr out of range: 1969
+byr out of range: 2015
+eyr out of range: 2010
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+iyr out of range: 2021
+byr out of range: 2023
+bad height: 75cm
+eyr out of range: 1931
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+eyr out of range: 2039
+needs: [ 'eyr' ]
+needs: []
+found a valid passports? {
+  byr: '1935',
+  iyr: '2013',
+  hgt: '151cm',
+  hcl: '#b6652a',
+  ecl: 'grn',
+  eyr: '2023',
+  pid: '741958450'
+}
+bad height: 85
+eyr out of range: 2035
+needs: [ 'eyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  byr: '1929',
+  pid: '764478810',
+  ecl: 'grn',
+  hcl: '#866857',
+  iyr: '2019',
+  hgt: '155cm',
+  eyr: '2022',
+  cid: '277'
+}
+needs: []
+found a valid passports? {
+  hgt: '155cm',
+  pid: '450816410',
+  eyr: '2030',
+  cid: '165',
+  byr: '1969',
+  ecl: 'blu',
+  hcl: '#866857',
+  iyr: '2019'
+}
+needs: []
+found a valid passports? {
+  cid: '330',
+  pid: '168777528',
+  eyr: '2024',
+  ecl: 'blu',
+  hcl: '#341e13',
+  hgt: '178cm',
+  iyr: '2013',
+  byr: '1921'
+}
+eyr out of range: 2037
+iyr out of range: 1973
+bad height: 64cm
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'hcl', 'pid' ]
+bad height: 70cm
+iyr out of range: 1970
+byr out of range: 2003
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl' ]
+needs: []
+found a valid passports? {
+  ecl: 'hzl',
+  pid: '375018246',
+  hgt: '161cm',
+  iyr: '2011',
+  eyr: '2029',
+  hcl: '#c0946f',
+  byr: '1956'
+}
+needs: [ 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  byr: '1979',
+  eyr: '2020',
+  hcl: '#ceb3a1',
+  ecl: 'amb',
+  pid: '752141341',
+  hgt: '150cm',
+  iyr: '2010'
+}
+needs: []
+found a valid passports? {
+  cid: '274',
+  byr: '1928',
+  iyr: '2018',
+  eyr: '2023',
+  hcl: '#a97842',
+  hgt: '173cm',
+  pid: '186060112',
+  ecl: 'gry'
+}
+needs: []
+found a valid passports? {
+  hcl: '#341e13',
+  ecl: 'blu',
+  iyr: '2011',
+  hgt: '190cm',
+  cid: '292',
+  pid: '974271891',
+  eyr: '2020',
+  byr: '1927'
+}
+needs: [ 'hgt' ]
+iyr out of range: 2026
+byr out of range: 2026
+needs: [ 'byr', 'iyr', 'hcl' ]
+needs: []
+found a valid passports? {
+  ecl: 'brn',
+  byr: '1988',
+  eyr: '2026',
+  hgt: '178cm',
+  pid: '008152501',
+  hcl: '#602927',
+  iyr: '2020'
+}
+needs: []
+found a valid passports? {
+  ecl: 'brn',
+  pid: '877401308',
+  byr: '1923',
+  cid: '154',
+  hgt: '170cm',
+  hcl: '#fffffd',
+  iyr: '2014',
+  eyr: '2022'
+}
+bad height: 72cm
+byr out of range: 2007
+eyr out of range: 1964
+needs: [ 'byr', 'eyr', 'hgt', 'hcl' ]
+needs: [ 'hcl' ]
+eyr out of range: 1964
+iyr out of range: 2030
+needs: [ 'iyr', 'eyr', 'ecl' ]
+needs: []
+found a valid passports? {
+  byr: '1935',
+  hgt: '171cm',
+  cid: '253',
+  pid: '033393224',
+  hcl: '#c0946f',
+  iyr: '2012',
+  ecl: 'blu',
+  eyr: '2025'
+}
+needs: [ 'pid' ]
+needs: [ 'hcl', 'ecl', 'pid' ]
+byr out of range: 2012
+eyr out of range: 2037
+bad height: 75cm
+iyr out of range: 2030
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  pid: '102379515',
+  byr: '1971',
+  hgt: '169cm',
+  ecl: 'amb',
+  eyr: '2020',
+  hcl: '#cfa07d',
+  iyr: '2017'
+}
+needs: []
+found a valid passports? {
+  pid: '236611157',
+  eyr: '2020',
+  hcl: '#b6652a',
+  iyr: '2017',
+  cid: '194',
+  byr: '2001',
+  hgt: '169cm',
+  ecl: 'gry'
+}
+eyr out of range: 2040
+bad height: 177in
+byr out of range: 2010
+needs: [ 'byr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+byr out of range: 2009
+needs: [ 'byr', 'pid' ]
+needs: [ 'ecl' ]
+eyr out of range: 2031
+bad height: 153in
+needs: [ 'eyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+iyr out of range: 1929
+eyr out of range: 2036
+needs: [ 'iyr', 'eyr', 'pid' ]
+needs: [ 'ecl' ]
+needs: []
+found a valid passports? {
+  hcl: '#ceb3a1',
+  ecl: 'brn',
+  iyr: '2013',
+  eyr: '2025',
+  byr: '1953',
+  pid: '751516675',
+  hgt: '175cm'
+}
+needs: []
+found a valid passports? {
+  byr: '1928',
+  eyr: '2027',
+  cid: '85',
+  hgt: '179cm',
+  ecl: 'oth',
+  pid: '169307999',
+  hcl: '#3e07af',
+  iyr: '2010'
+}
+bad height: 60cm
+byr out of range: 2008
+eyr out of range: 1965
+iyr out of range: 1930
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  hcl: '#1099d9',
+  ecl: 'amb',
+  pid: '638820661',
+  iyr: '2014',
+  byr: '1998',
+  eyr: '2025',
+  hgt: '162cm'
+}
+needs: []
+found a valid passports? {
+  ecl: 'amb',
+  eyr: '2022',
+  hcl: '#623a2f',
+  byr: '1956',
+  hgt: '154cm',
+  iyr: '2010',
+  pid: '717452826'
+}
+iyr out of range: 1928
+byr out of range: 2020
+bad height: 124
+needs: [ 'byr', 'iyr', 'hgt', 'hcl', 'ecl', 'pid' ]
+bad height: 178
+needs: [ 'hgt', 'ecl', 'pid' ]
+eyr out of range: 1976
+needs: [ 'eyr' ]
+needs: []
+found a valid passports? {
+  hcl: '#0cf4b8',
+  pid: '499271062',
+  hgt: '62in',
+  ecl: 'hzl',
+  iyr: '2016',
+  byr: '1922',
+  eyr: '2022'
+}
+needs: []
+found a valid passports? {
+  byr: '1994',
+  eyr: '2029',
+  hgt: '174cm',
+  hcl: '#efcc98',
+  ecl: 'amb',
+  iyr: '2019',
+  pid: '297210449'
+}
+needs: [ 'pid' ]
+needs: []
+found a valid passports? {
+  pid: '091886000',
+  hgt: '179cm',
+  byr: '1975',
+  eyr: '2020',
+  cid: '326',
+  ecl: 'oth',
+  iyr: '2015',
+  hcl: '#a97842'
+}
+needs: []
+found a valid passports? {
+  hcl: '#efcc98',
+  hgt: '176cm',
+  byr: '1940',
+  iyr: '2016',
+  ecl: 'brn',
+  pid: '514758507',
+  eyr: '2024',
+  cid: '313'
+}
+needs: [ 'hcl' ]
+needs: []
+found a valid passports? {
+  byr: '1965',
+  eyr: '2021',
+  iyr: '2017',
+  hgt: '185cm',
+  hcl: '#a97842',
+  ecl: 'hzl',
+  pid: '238901177'
+}
+needs: []
+found a valid passports? {
+  hgt: '156cm',
+  pid: '916654189',
+  byr: '1943',
+  eyr: '2022',
+  ecl: 'amb',
+  hcl: '#341e13',
+  iyr: '2016'
+}
+needs: []
+found a valid passports? {
+  cid: '305',
+  iyr: '2013',
+  eyr: '2029',
+  hgt: '163cm',
+  ecl: 'blu',
+  hcl: '#fffffd',
+  pid: '944033881',
+  byr: '1952'
+}
+needs: []
+found a valid passports? {
+  pid: '638190538',
+  hcl: '#866857',
+  ecl: 'brn',
+  eyr: '2030',
+  iyr: '2016',
+  cid: '78',
+  byr: '1943',
+  hgt: '186cm'
+}
+needs: []
+found a valid passports? {
+  eyr: '2024',
+  iyr: '2015',
+  pid: '231006970',
+  cid: '312',
+  byr: '2000',
+  hcl: '#623a2f',
+  hgt: '190cm',
+  ecl: 'brn'
+}
+bad height: 166
+iyr out of range: 1961
+needs: [ 'iyr', 'hgt', 'ecl' ]
+eyr out of range: 1995
+byr out of range: 2023
+needs: [ 'byr', 'iyr', 'eyr', 'hcl', 'ecl' ]
+needs: [ 'iyr' ]
+needs: [ 'iyr', 'hgt' ]
+needs: []
+found a valid passports? {
+  eyr: '2030',
+  cid: '149',
+  pid: '983735096',
+  hgt: '179cm',
+  iyr: '2014',
+  byr: '1957',
+  ecl: 'gry',
+  hcl: '#341e13'
+}
+needs: []
+found a valid passports? {
+  byr: '2001',
+  hgt: '157cm',
+  ecl: 'hzl',
+  eyr: '2021',
+  hcl: '#ceb3a1',
+  pid: '558527031',
+  iyr: '2018'
+}
+bad height: 122
+needs: [ 'byr', 'hgt', 'hcl' ]
+bad height: 162in
+byr out of range: 2027
+needs: [ 'byr', 'hgt', 'ecl', 'pid' ]
+needs: []
+found a valid passports? {
+  ecl: 'gry',
+  iyr: '2017',
+  hcl: '#602927',
+  cid: '303',
+  byr: '1950',
+  pid: '509264482',
+  eyr: '2030',
+  hgt: '164cm'
+}
+needs: []
+found a valid passports? {
+  hgt: '192cm',
+  pid: '967128169',
+  iyr: '2019',
+  ecl: 'blu',
+  eyr: '2024',
+  hcl: '#fffffd',
+  byr: '1949',
+  cid: '301'
+}
+needs: []
+found a valid passports? {
+  ecl: 'blu',
+  cid: '71',
+  hgt: '164cm',
+  eyr: '2022',
+  hcl: '#cfa07d',
+  pid: '750303088',
+  byr: '1949',
+  iyr: '2014'
+}
+needs: [ 'ecl' ]
+needs: []
+found a valid passports? {
+  hcl: '#602927',
+  hgt: '160cm',
+  iyr: '2014',
+  eyr: '2023',
+  byr: '1940',
+  pid: '748539736',
+  ecl: 'amb'
+}
+bad height: 76cm
+needs: [ 'hgt' ]
+needs: []
+found a valid passports? {
+  hgt: '190cm',
+  iyr: '2011',
+  pid: '082777116',
+  byr: '1979',
+  cid: '73',
+  ecl: 'oth',
+  hcl: '#6b5442',
+  eyr: '2021'
+}
+needs: []
+found a valid passports? {
+  eyr: '2029',
+  ecl: 'amb',
+  hgt: '151cm',
+  pid: '144881592',
+  byr: '1964',
+  hcl: '#efcc98',
+  iyr: '2012'
+}
+needs: [ 'hgt' ]
+needs: []
+found a valid passports? {
+  eyr: '2029',
+  pid: '922956941',
+  hcl: '#623a2f',
+  byr: '1934',
+  ecl: 'grn',
+  hgt: '151cm',
+  iyr: '2019'
+}
+needs: [ 'eyr' ]
+needs: []
+found a valid passports? {
+  byr: '1951',
+  ecl: 'oth',
+  eyr: '2026',
+  hgt: '185cm',
+  cid: '82',
+  hcl: '#7d3b0c',
+  iyr: '2020',
+  pid: '052476816'
+}
+needs: []
+found a valid passports? {
+  eyr: '2026',
+  cid: '319',
+  iyr: '2020',
+  ecl: 'brn',
+  hcl: '#888785',
+  hgt: '172cm',
+  pid: '327064207',
+  byr: '1956'
+}
+needs: []
+found a valid passports? {
+  hgt: '178cm',
+  pid: '638854420',
+  byr: '1995',
+  eyr: '2030',
+  ecl: 'gry',
+  hcl: '#7d3b0c',
+  iyr: '2018'
+}
+iyr out of range: 2026
+bad height: 186in
+needs: [ 'iyr', 'hgt' ]
+needs: []
+found a valid passports? {
+  byr: '1931',
+  ecl: 'oth',
+  eyr: '2030',
+  pid: '437813485',
+  hgt: '181cm',
+  hcl: '#efcc98',
+  iyr: '2018'
+}
+needs: []
+found a valid passports? {
+  byr: '1999',
+  ecl: 'amb',
+  hgt: '160cm',
+  iyr: '2013',
+  hcl: '#b6652a',
+  pid: '043039693',
+  eyr: '2022'
+}
+byr out of range: 2025
+needs: [ 'byr', 'pid' ]
+needs: []
+found a valid passports? {
+  ecl: 'grn',
+  byr: '1939',
+  eyr: '2025',
+  hgt: '171cm',
+  cid: '134',
+  iyr: '2020',
+  pid: '090346629',
+  hcl: '#cfa07d'
+}
+eyr out of range: 2031
+iyr out of range: 2030
+bad height: 176in
+needs: [
+  'byr', 'iyr',
+  'eyr', 'hgt',
+  'hcl', 'ecl',
+  'pid'
+]
+needs: []
+found a valid passports? {
+  byr: '1971',
+  ecl: 'brn',
+  hgt: '190cm',
+  pid: '791682756',
+  hcl: '#fffffd',
+  iyr: '2020',
+  eyr: '2027'
+}
+iyr out of range: 1931
+byr out of range: 2025
+bad height: 76cm
+eyr out of range: 2040
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'ecl' ]
+needs: [ 'byr' ]
+bad height: 94
+byr out of range: 2020
+needs: [ 'byr', 'hgt', 'hcl', 'pid' ]
+needs: [ 'hcl' ]
+byr out of range: 2025
+iyr out of range: 2021
+eyr out of range: 1970
+bad height: 63cm
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl' ]
+needs: [ 'eyr' ]
+byr out of range: 2027
+needs: [ 'byr', 'ecl' ]
+needs: []
+found a valid passports? {
+  eyr: '2028',
+  pid: '302044900',
+  iyr: '2011',
+  byr: '1938',
+  hgt: '190cm',
+  ecl: 'amb',
+  hcl: '#c0946f'
+}
+needs: [ 'hgt' ]
+needs: [ 'eyr' ]
+needs: [ 'pid' ]
+needs: []
+found a valid passports? {
+  eyr: '2025',
+  pid: '322775528',
+  hgt: '155cm',
+  hcl: '#efcc98',
+  iyr: '2015',
+  byr: '1996',
+  ecl: 'oth'
+}
+needs: [ 'iyr' ]
+needs: []
+found a valid passports? {
+  eyr: '2029',
+  hgt: '168cm',
+  byr: '1929',
+  pid: '800222003',
+  ecl: 'gry',
+  hcl: '#8f8aaa',
+  iyr: '2011'
+}
+needs: []
+found a valid passports? {
+  hcl: '#623a2f',
+  ecl: 'hzl',
+  hgt: '168cm',
+  pid: '795434985',
+  eyr: '2020',
+  iyr: '2020',
+  cid: '209',
+  byr: '1970'
+}
+byr out of range: 2007
+eyr out of range: 1933
+bad height: 188in
+iyr out of range: 2030
+needs: [ 'byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl' ]
+needs: []
+found a valid passports? {
+  hcl: '#7d3b0c',
+  pid: '431742871',
+  ecl: 'hzl',
+  hgt: '169cm',
+  cid: '340',
+  eyr: '2023',
+  iyr: '2017',
+  byr: '1994'
+}
+passports 150 [
+  {
+    byr: '1971',
+    eyr: '2021',
+    iyr: '2015',
+    pid: '158388040',
+    hcl: '#18171d',
+    ecl: 'brn',
+    hgt: '179cm'
+  },
+  {
+    byr: '1936',
+    pid: '707057570',
+    iyr: '2014',
+    ecl: 'amb',
+    cid: '299',
+    eyr: '2030',
+    hcl: '#c0946f',
+    hgt: '186cm'
+  },
+  {
+    hgt: '163cm',
+    iyr: '2013',
+    ecl: 'gry',
+    hcl: '#86e981',
+    byr: '1939',
+    eyr: '2020',
+    pid: '241741372',
+    cid: '203'
+  },
+  {
+    ecl: 'brn',
+    hcl: '#341e13',
+    pid: '686617364',
+    byr: '1929',
+    eyr: '2029',
+    hgt: '160cm',
+    cid: '280',
+    iyr: '2020'
+  },
+  {
+    byr: '2002',
+    hcl: '#623a2f',
+    pid: '253005469',
+    iyr: '2011',
+    ecl: 'hzl',
+    hgt: '184cm',
+    eyr: '2027'
+  },
+  {
+    eyr: '2027',
+    byr: '1976',
+    pid: '350079989',
+    ecl: 'blu',
+    iyr: '2013',
+    hgt: '180cm',
+    hcl: '#866857'
+  },
+  {
+    ecl: 'gry',
+    iyr: '2017',
+    hcl: '#18171d',
+    byr: '1926',
+    eyr: '2027',
+    hgt: '68in',
+    cid: '310',
+    pid: '560836007'
+  },
+  {
+    ecl: 'brn',
+    hgt: '179cm',
+    eyr: '2020',
+    iyr: '2016',
+    pid: '322103252',
+    byr: '1940',
+    hcl: '#b6652a'
+  },
+  {
+    hcl: '#733820',
+    hgt: '188cm',
+    cid: '70',
+    eyr: '2021',
+    ecl: 'amb',
+    byr: '1996',
+    iyr: '2013',
+    pid: '412419084'
+  },
+  {
+    hgt: '164cm',
+    iyr: '2011',
+    byr: '1928',
+    eyr: '2020',
+    hcl: '#733820',
+    pid: '704914380',
+    ecl: 'blu'
+  },
+  {
+    pid: '224593036',
+    eyr: '2027',
+    ecl: 'brn',
+    hcl: '#341e13',
+    iyr: '2014',
+    byr: '1997',
+    hgt: '181cm'
+  },
+  {
+    byr: '1998',
+    iyr: '2017',
+    pid: '618350852',
+    hgt: '156cm',
+    cid: '193',
+    ecl: 'amb',
+    hcl: '#602927',
+    eyr: '2029'
+  },
+  {
+    cid: '206',
+    pid: '735212085',
+    eyr: '2020',
+    byr: '1950',
+    hgt: '153cm',
+    ecl: 'blu',
+    iyr: '2019',
+    hcl: '#733820'
+  },
+  {
+    eyr: '2021',
+    pid: '551149968',
+    iyr: '2020',
+    hcl: '#6b5442',
+    byr: '1948',
+    ecl: 'grn',
+    hgt: '152cm'
+  },
+  {
+    hgt: '76in',
+    cid: '113',
+    iyr: '2019',
+    eyr: '2023',
+    hcl: '#888785',
+    pid: '131239468',
+    ecl: 'grn',
+    byr: '1994'
+  },
+  {
+    ecl: 'hzl',
+    iyr: '2012',
+    cid: '344',
+    hcl: '#7d3b0c',
+    hgt: '190cm',
+    pid: '599490023',
+    byr: '1954',
+    eyr: '2023'
+  },
+  {
+    iyr: '2014',
+    hgt: '151cm',
+    pid: '190259199',
+    eyr: '2021',
+    ecl: 'blu',
+    byr: '1975',
+    hcl: '#ceb3a1'
+  },
+  {
+    hgt: '164cm',
+    ecl: 'oth',
+    hcl: '#c0946f',
+    pid: '427760590',
+    eyr: '2023',
+    iyr: '2012',
+    byr: '1979'
+  },
+  {
+    iyr: '2013',
+    hcl: '#18171d',
+    hgt: '170cm',
+    ecl: 'blu',
+    pid: '040253250',
+    eyr: '2024',
+    byr: '1954',
+    cid: '340'
+  },
+  {
+    cid: '185',
+    byr: '1956',
+    eyr: '2029',
+    pid: '454637740',
+    ecl: 'hzl',
+    hcl: '#efcc98',
+    iyr: '2019',
+    hgt: '73in'
+  },
+  {
+    hcl: '#efcc98',
+    hgt: '176cm',
+    ecl: 'hzl',
+    cid: '113',
+    pid: '747653564',
+    iyr: '2016',
+    eyr: '2020',
+    byr: '1945'
+  },
+  {
+    hgt: '69in',
+    cid: '264',
+    byr: '1971',
+    hcl: '#733820',
+    ecl: 'amb',
+    pid: '086130104',
+    iyr: '2011',
+    eyr: '2022'
+  },
+  {
+    pid: '955229652',
+    eyr: '2027',
+    cid: '175',
+    byr: '1950',
+    iyr: '2010',
+    ecl: 'gry',
+    hcl: '#866857',
+    hgt: '177cm'
+  },
+  {
+    hcl: '#a97842',
+    pid: '040278061',
+    ecl: 'brn',
+    hgt: '168cm',
+    cid: '194',
+    byr: '1973',
+    iyr: '2016',
+    eyr: '2027'
+  },
+  {
+    hcl: '#623a2f',
+    eyr: '2023',
+    ecl: 'blu',
+    iyr: '2016',
+    pid: '844348663',
+    byr: '1997',
+    hgt: '179cm'
+  },
+  {
+    iyr: '2011',
+    eyr: '2025',
+    cid: '286',
+    pid: '084736292',
+    byr: '1936',
+    ecl: 'oth',
+    hcl: '#a97842',
+    hgt: '166cm'
+  },
+  {
+    iyr: '2012',
+    ecl: 'blu',
+    hgt: '159cm',
+    byr: '1980',
+    eyr: '2024',
+    pid: '811644928',
+    cid: '105',
+    hcl: '#7d3b0c'
+  },
+  {
+    iyr: '2019',
+    eyr: '2026',
+    ecl: 'brn',
+    hcl: '#866857',
+    byr: '1993',
+    cid: '299',
+    pid: '603503348',
+    hgt: '186cm'
+  },
+  {
+    hgt: '164cm',
+    eyr: '2025',
+    pid: '113005290',
+    byr: '1955',
+    ecl: 'blu',
+    iyr: '2017',
+    hcl: '#b6652a'
+  },
+  {
+    cid: '179',
+    iyr: '2015',
+    pid: '317467924',
+    eyr: '2025',
+    ecl: 'gry',
+    byr: '1996',
+    hgt: '180cm',
+    hcl: '#a55f97'
+  },
+  {
+    hgt: '172cm',
+    hcl: '#efcc98',
+    cid: '53',
+    ecl: 'grn',
+    iyr: '2016',
+    byr: '1991',
+    pid: '337133478',
+    eyr: '2025'
+  },
+  {
+    pid: '577607614',
+    byr: '1924',
+    hgt: '173cm',
+    hcl: '#341e13',
+    eyr: '2026',
+    ecl: 'amb',
+    iyr: '2013'
+  },
+  {
+    pid: '780384540',
+    ecl: 'gry',
+    cid: '52',
+    eyr: '2020',
+    hgt: '193cm',
+    hcl: '#4ae223',
+    iyr: '2017',
+    byr: '1984'
+  },
+  {
+    ecl: 'hzl',
+    pid: '218314886',
+    eyr: '2030',
+    byr: '1948',
+    hcl: '#c0946f',
+    hgt: '185cm',
+    iyr: '2013'
+  },
+  {
+    byr: '1961',
+    hgt: '165cm',
+    pid: '506597451',
+    cid: '122',
+    eyr: '2020',
+    hcl: '#cfa07d',
+    ecl: 'gry',
+    iyr: '2016'
+  },
+  {
+    hgt: '179cm',
+    byr: '1972',
+    eyr: '2026',
+    cid: '62',
+    ecl: 'oth',
+    pid: '996355557',
+    iyr: '2013',
+    hcl: '#a97842'
+  },
+  {
+    ecl: 'amb',
+    eyr: '2026',
+    byr: '1936',
+    pid: '812982189',
+    hgt: '158cm',
+    hcl: '#888785',
+    iyr: '2010'
+  },
+  {
+    byr: '1938',
+    hcl: '#fd309a',
+    cid: '104',
+    iyr: '2015',
+    eyr: '2022',
+    pid: '201047563',
+    hgt: '160cm',
+    ecl: 'hzl'
+  },
+  {
+    hcl: '#efcc98',
+    hgt: '187cm',
+    byr: '1925',
+    ecl: 'grn',
+    pid: '753746076',
+    iyr: '2017',
+    eyr: '2021'
+  },
+  {
+    iyr: '2017',
+    byr: '1934',
+    ecl: 'grn',
+    eyr: '2021',
+    hgt: '163cm',
+    pid: '688172460',
+    hcl: '#b6652a'
+  },
+  {
+    hcl: '#c0946f',
+    iyr: '2018',
+    ecl: 'blu',
+    pid: '676564085',
+    hgt: '184cm',
+    cid: '152',
+    byr: '1980',
+    eyr: '2023'
+  },
+  {
+    pid: '091281559',
+    hcl: '#733820',
+    hgt: '166cm',
+    eyr: '2021',
+    ecl: 'grn',
+    cid: '327',
+    byr: '1928',
+    iyr: '2014'
+  },
+  {
+    eyr: '2025',
+    ecl: 'grn',
+    byr: '1938',
+    hcl: '#ceb3a1',
+    cid: '234',
+    pid: '549433891',
+    hgt: '172cm',
+    iyr: '2016'
+  },
+  {
+    hcl: '#c0946f',
+    hgt: '173cm',
+    iyr: '2014',
+    eyr: '2030',
+    ecl: 'blu',
+    byr: '1965',
+    pid: '696577272'
+  },
+  {
+    hgt: '154cm',
+    eyr: '2030',
+    pid: '475642195',
+    byr: '1920',
+    iyr: '2013',
+    hcl: '#866857',
+    ecl: 'blu'
+  },
+  {
+    pid: '518398763',
+    iyr: '2010',
+    eyr: '2020',
+    hgt: '183cm',
+    ecl: 'brn',
+    byr: '1921',
+    hcl: '#18171d'
+  },
+  {
+    eyr: '2023',
+    pid: '614116723',
+    hcl: '#7d3b0c',
+    ecl: 'hzl',
+    iyr: '2016',
+    hgt: '189cm',
+    byr: '2000'
+  },
+  {
+    pid: '851985534',
+    eyr: '2028',
+    hcl: '#18171d',
+    ecl: 'oth',
+    cid: '238',
+    byr: '2001',
+    iyr: '2019',
+    hgt: '166cm'
+  },
+  {
+    byr: '1927',
+    hgt: '170cm',
+    pid: '246933107',
+    ecl: 'amb',
+    iyr: '2015',
+    cid: '166',
+    eyr: '2027',
+    hcl: '#b6652a'
+  },
+  {
+    hcl: '#866857',
+    eyr: '2021',
+    hgt: '179cm',
+    pid: '206504353',
+    cid: '84',
+    ecl: 'gry',
+    iyr: '2012',
+    byr: '1952'
+  },
+  {
+    byr: '1986',
+    ecl: 'hzl',
+    hcl: '#a97842',
+    iyr: '2015',
+    hgt: '152cm',
+    pid: '722601936',
+    eyr: '2025'
+  },
+  {
+    ecl: 'hzl',
+    hcl: '#888785',
+    cid: '268',
+    byr: '1926',
+    hgt: '176cm',
+    pid: '321394231',
+    eyr: '2021',
+    iyr: '2014'
+  },
+  {
+    eyr: '2021',
+    cid: '225',
+    pid: '770796086',
+    ecl: 'gry',
+    byr: '1961',
+    hgt: '154cm',
+    hcl: '#6b5442',
+    iyr: '2011'
+  },
+  {
+    byr: '1978',
+    eyr: '2022',
+    hgt: '184cm',
+    hcl: '#7d3b0c',
+    cid: '271',
+    ecl: 'amb',
+    pid: '235352975',
+    iyr: '2010'
+  },
+  {
+    hgt: '193cm',
+    pid: '473100400',
+    hcl: '#efcc98',
+    cid: '201',
+    eyr: '2020',
+    byr: '1969',
+    ecl: 'gry',
+    iyr: '2016'
+  },
+  {
+    eyr: '2025',
+    pid: '137807160',
+    iyr: '2014',
+    ecl: 'grn',
+    byr: '1944',
+    hgt: '168cm',
+    hcl: '#ceb3a1'
+  },
+  {
+    pid: '253742161',
+    ecl: 'hzl',
+    hcl: '#602927',
+    eyr: '2021',
+    hgt: '191cm',
+    byr: '1925',
+    iyr: '2010'
+  },
+  {
+    ecl: 'amb',
+    hcl: '#341e13',
+    eyr: '2024',
+    iyr: '2017',
+    byr: '1975',
+    pid: '838040028',
+    hgt: '172cm'
+  },
+  {
+    hcl: '#888785',
+    byr: '1978',
+    hgt: '64in',
+    pid: '442064310',
+    eyr: '2021',
+    iyr: '2011',
+    ecl: 'hzl'
+  },
+  {
+    eyr: '2021',
+    byr: '1988',
+    hcl: '#a97842',
+    pid: '290578586',
+    ecl: 'hzl',
+    hgt: '174cm',
+    iyr: '2020'
+  },
+  {
+    byr: '1998',
+    iyr: '2020',
+    hgt: '163cm',
+    ecl: 'oth',
+    eyr: '2025',
+    hcl: '#6b5442',
+    pid: '913461954'
+  },
+  {
+    hgt: '173cm',
+    hcl: '#18171d',
+    eyr: '2029',
+    ecl: 'brn',
+    cid: '313',
+    byr: '1980',
+    iyr: '2011',
+    pid: '810497375'
+  },
+  {
+    byr: '1975',
+    hgt: '153cm',
+    eyr: '2027',
+    hcl: '#fffffd',
+    pid: '857730031',
+    ecl: 'gry',
+    iyr: '2020'
+  },
+  {
+    eyr: '2024',
+    pid: '737015681',
+    byr: '1952',
+    ecl: 'hzl',
+    iyr: '2019',
+    hgt: '192cm',
+    hcl: '#cfa07d'
+  },
+  {
+    cid: '350',
+    hcl: '#602927',
+    iyr: '2019',
+    hgt: '178cm',
+    pid: '172238204',
+    byr: '1949',
+    ecl: 'hzl',
+    eyr: '2028'
+  },
+  {
+    hgt: '153cm',
+    hcl: '#ceb3a1',
+    ecl: 'grn',
+    byr: '1997',
+    pid: '266747822',
+    iyr: '2011',
+    eyr: '2022'
+  },
+  {
+    byr: '1930',
+    iyr: '2011',
+    pid: '352711700',
+    hgt: '174cm',
+    cid: '67',
+    eyr: '2020',
+    ecl: 'hzl',
+    hcl: '#6b5442'
+  },
+  {
+    hgt: '164cm',
+    eyr: '2026',
+    hcl: '#866857',
+    iyr: '2018',
+    pid: '922679610',
+    byr: '1974',
+    ecl: 'brn',
+    cid: '114'
+  },
+  {
+    cid: '83',
+    hgt: '166cm',
+    eyr: '2026',
+    iyr: '2018',
+    byr: '1994',
+    ecl: 'brn',
+    pid: '858360477',
+    hcl: '#ceb3a1'
+  },
+  {
+    hgt: '169cm',
+    eyr: '2020',
+    pid: '110129489',
+    byr: '1958',
+    ecl: 'oth',
+    hcl: '#7d3b0c',
+    iyr: '2011'
+  },
+  {
+    cid: '279',
+    iyr: '2019',
+    byr: '1995',
+    eyr: '2026',
+    ecl: 'hzl',
+    hcl: '#7d3b0c',
+    hgt: '185cm',
+    pid: '085427066'
+  },
+  {
+    byr: '1925',
+    cid: '168',
+    eyr: '2020',
+    hcl: '#cfa07d',
+    iyr: '2011',
+    ecl: 'brn',
+    hgt: '150cm',
+    pid: '740118192'
+  },
+  {
+    byr: '1997',
+    iyr: '2018',
+    eyr: '2023',
+    hcl: '#602927',
+    pid: '251296833',
+    ecl: 'blu',
+    hgt: '185cm'
+  },
+  {
+    hgt: '190cm',
+    iyr: '2019',
+    ecl: 'oth',
+    eyr: '2028',
+    hcl: '#341e13',
+    cid: '334',
+    pid: '258135663',
+    byr: '1972'
+  },
+  {
+    byr: '1936',
+    hgt: '76in',
+    pid: '748344702',
+    cid: '335',
+    eyr: '2027',
+    hcl: '#a97842',
+    ecl: 'amb',
+    iyr: '2015'
+  },
+  {
+    hcl: '#733820',
+    ecl: 'amb',
+    iyr: '2013',
+    hgt: '188cm',
+    byr: '1955',
+    pid: '125663066',
+    eyr: '2020',
+    cid: '179'
+  },
+  {
+    iyr: '2017',
+    hgt: '185cm',
+    ecl: 'grn',
+    cid: '298',
+    eyr: '2030',
+    hcl: '#5b1c03',
+    byr: '1992',
+    pid: '092887457'
+  },
+  {
+    pid: '257666411',
+    eyr: '2023',
+    byr: '1982',
+    hgt: '179cm',
+    hcl: '#18171d',
+    ecl: 'brn',
+    iyr: '2010'
+  },
+  {
+    hcl: '#efcc98',
+    byr: '1964',
+    pid: '577424639',
+    eyr: '2030',
+    iyr: '2010',
+    ecl: 'brn',
+    hgt: '169cm',
+    cid: '285'
+  },
+  {
+    ecl: 'amb',
+    byr: '1958',
+    hgt: '159cm',
+    hcl: '#efcc98',
+    eyr: '2024',
+    iyr: '2016',
+    pid: '029502840'
+  },
+  {
+    iyr: '2014',
+    pid: '868785127',
+    eyr: '2029',
+    cid: '220',
+    hcl: '#18171d',
+    ecl: 'blu',
+    byr: '1948',
+    hgt: '171cm'
+  },
+  {
+    byr: '1936',
+    pid: '433437105',
+    hcl: '#c0946f',
+    eyr: '2020',
+    iyr: '2019',
+    hgt: '160cm',
+    ecl: 'brn'
+  },
+  {
+    iyr: '2015',
+    eyr: '2024',
+    hgt: '176cm',
+    ecl: 'hzl',
+    byr: '1995',
+    pid: '101835436',
+    hcl: '#ceb3a1'
+  },
+  {
+    byr: '1998',
+    iyr: '2011',
+    cid: '275',
+    ecl: 'oth',
+    pid: '924517068',
+    eyr: '2024',
+    hgt: '191cm',
+    hcl: '#623a2f'
+  },
+  {
+    hgt: '156cm',
+    hcl: '#b6652a',
+    eyr: '2021',
+    pid: '969724332',
+    cid: '126',
+    iyr: '2016',
+    ecl: 'hzl',
+    byr: '1988'
+  },
+  {
+    ecl: 'blu',
+    hcl: '#866857',
+    hgt: '153cm',
+    pid: '798083560',
+    iyr: '2015',
+    byr: '1981',
+    eyr: '2030'
+  },
+  {
+    iyr: '2013',
+    cid: '103',
+    hcl: '#efcc98',
+    eyr: '2022',
+    byr: '1964',
+    ecl: 'gry',
+    hgt: '161cm',
+    pid: '950689613'
+  },
+  {
+    eyr: '2027',
+    pid: '286247733',
+    byr: '2000',
+    hgt: '191cm',
+    iyr: '2014',
+    hcl: '#341e13',
+    ecl: 'amb'
+  },
+  {
+    hgt: '161cm',
+    cid: '215',
+    pid: '116325531',
+    iyr: '2019',
+    eyr: '2025',
+    hcl: '#18171d',
+    ecl: 'blu',
+    byr: '1951'
+  },
+  {
+    pid: '787859682',
+    hcl: '#a97842',
+    eyr: '2020',
+    byr: '1948',
+    hgt: '190cm',
+    ecl: 'brn',
+    iyr: '2020'
+  },
+  {
+    hcl: '#18171d',
+    hgt: '162cm',
+    byr: '1983',
+    eyr: '2020',
+    pid: '328556776',
+    iyr: '2017',
+    ecl: 'grn'
+  },
+  {
+    hcl: '#866857',
+    pid: '615665716',
+    ecl: 'blu',
+    hgt: '164cm',
+    iyr: '2020',
+    byr: '1948',
+    eyr: '2024',
+    cid: '286'
+  },
+  {
+    hcl: '#b6652a',
+    hgt: '59in',
+    eyr: '2027',
+    pid: '752461325',
+    ecl: 'oth',
+    byr: '1932',
+    iyr: '2019'
+  },
+  {
+    eyr: '2030',
+    byr: '1936',
+    ecl: 'hzl',
+    iyr: '2010',
+    cid: '263',
+    pid: '186570962',
+    hcl: '#888785',
+    hgt: '163cm'
+  },
+  {
+    byr: '1949',
+    ecl: 'blu',
+    pid: '407719342',
+    eyr: '2030',
+    hcl: '#b6652a',
+    iyr: '2012',
+    hgt: '186cm'
+  },
+  {
+    byr: '1980',
+    hcl: '#d2c954',
+    iyr: '2013',
+    ecl: 'brn',
+    hgt: '72in',
+    eyr: '2030',
+    pid: '017095362'
+  },
+  {
+    hgt: '179cm',
+    hcl: '#ceb3a1',
+    cid: '61',
+    eyr: '2026',
+    iyr: '2011',
+    pid: '897403026',
+    byr: '1984',
+    ecl: 'amb'
+  },
+  {
+    cid: '150',
+    hgt: '181cm',
+    eyr: '2028',
+    pid: '894689339',
+    hcl: '#602927',
+    byr: '1933',
+    ecl: 'grn',
+    iyr: '2018'
+  },
+  {
+    iyr: '2019',
+    pid: '255938897',
+    eyr: '2022',
+    hgt: '152cm',
+    byr: '1956',
+    ecl: 'grn',
+    hcl: '#ceb3a1'
+  },
+  {
+    eyr: '2029',
+    pid: '670713784',
+    iyr: '2020',
+    ecl: 'grn',
+    hgt: '155cm',
+    hcl: '#6b5442',
+    byr: '2002'
+  },
+  ... 50 more items
+]

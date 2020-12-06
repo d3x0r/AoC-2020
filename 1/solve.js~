@@ -1,0 +1,14 @@
+
+const sack = require( "sack.vfs" );
+
+const lines = sack.Volume().read( "input.txt" ).toString().split('\n' );
+
+const test = lines.map( n=>Number(n));
+
+for( var n = 0; n < test; n++ ) {
+	for( var m = n+1; m < test; m++ ){
+        	if( test[n]+test[m] === 2020 ) {
+                console.log( "Found:", m, n, m*n);
+        	}
+        }
+}
