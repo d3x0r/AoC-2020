@@ -1,4 +1,5 @@
 
+const now = Date.now();
 const sack = require( "sack.vfs" );
 const lines = sack.Volume().read( "input.txt" ).toString().split('\n' );
 
@@ -24,7 +25,7 @@ function runProgram() {
 		//console.log( "Tick:", cp, i );
 		i.ticks++;
 		if( i.ticks === 2 ){
-			console.log( "Tick", cp, accum, i, program[cp-1] );
+			//console.log( "Tick", cp, accum, i, program[cp-1] );
 			return false;
 		}
 		cp++;
@@ -51,7 +52,7 @@ function tryCode() {
 			program[n].i = 'jmp';
 		} else 
 			continue; // no change...
-		console.log( "try:", n );
+		//console.log( "try:", n );
 		if( runProgram() ){
 			console.log( "Changed:", accum, n );
 			break;
@@ -66,3 +67,4 @@ function tryCode() {
 
 runProgram();
 tryCode();
+console.log( "took:", Date.now() - now );
