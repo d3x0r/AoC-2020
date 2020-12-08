@@ -15,10 +15,6 @@ let accum = 0;
 function runProgram() {
 	let cp = 0;
 	accum = 0;
-	//program[207].i = "nop";
-	//program[641].i = 'nop';
-	console.log( "CHange:", program[636] );
-	program[636].i = "jmp";
 	while( true ) {
 		if( cp < 0 || cp >= program.length ) { 
 			console.log( "DONE" ); 
@@ -68,5 +64,5 @@ function tryCode() {
 	}
 }
 
-//runProgram();
+runProgram();
 tryCode();
