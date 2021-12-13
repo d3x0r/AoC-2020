@@ -20,7 +20,7 @@ console.log( "score:", total );
 function parse(line) {
 	const stack = [];
 	for( let c of [...line] )  {
-		if( "[{<(".includes(c) ) {
+		if( c in lastInv ) {
 			stack.push( c );
 		}
 		else {
